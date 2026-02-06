@@ -3,7 +3,9 @@
 </div>
 
 ---
-
+<div align="center">
+  <video src="assets/demo.mp4" width="700" controls muted></video>
+</div>
 ## 👋 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
