@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=45&center=true&vCenter=true&width=650&lines=Hey!+I'm+Kavishka+Sandaruwan;Software+Engineering+Undergraduate;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=45&center=true&vCenter=true&width=650&lines=Hey!+I'm+Kavishka+Sandaruwan; Software+Engineering+Undergraduate;Welcome+to+my+GitHub+Profile!" />
 </div>
 
 
-
+<div align="center">
+  <video src="assets/demo.mp4" width="700" controls autoplay muted loop></video>
+</div>
 ---
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
@@ -23,7 +25,12 @@
 
 <br>
 
-## 🛠️ Languages & Tools
+<p  align="center">
+
+<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+  </p>
+  
+<p  align="center">
 
 ### Programming Languages
 <p align="center">
