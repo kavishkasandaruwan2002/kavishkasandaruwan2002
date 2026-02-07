@@ -52,6 +52,3 @@
 
 ------
 
-Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
-
-Last Edited on: 22/12/2021
