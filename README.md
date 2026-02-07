@@ -9,7 +9,7 @@
 
 - :credit_card: My full name is **Kavishka Sandaruwan** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently 3rd year student at **SLIIT UNI**
-- :books: My major is **Software Engineering**
+- :books: My major is **Software Engineering/Devops Engineer**
 - :earth_asia: I'm living now in **Malabe,Colombo,Sri Lanka**
 - :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Devops.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
