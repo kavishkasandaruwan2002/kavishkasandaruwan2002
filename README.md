@@ -12,7 +12,7 @@
 - :books: My major is **Software Engineering/Devops Engineer**
 - :earth_asia: I'm living now in **Malabe,Colombo,Sri Lanka**
 - :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Devops.
-- :monocle_face: I'm interested in coding, sleeping, and watching film
+
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
@@ -36,11 +36,7 @@
     <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="
-https://github.com/kavishkasandaruwan2002" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-<p> 
+ 
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
