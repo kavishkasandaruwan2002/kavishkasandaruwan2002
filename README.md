@@ -1,48 +1,107 @@
+![](https://komarev.com/ghpvc/?username=kavishkasandaruwan2002&style=flat&color=blue)
+
+<h1 align="center">Hi! I'm Kavishka 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hy!+I'm+Kavishka+Sandaruwan+%3C3;Software+Engineer!!!;Welcome+to+my+profile!" alt="Title"></img>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student;DevOps+Enthusiast;Mobile+App+Developer;Data+%26+ML+Explorer;Web+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
+
 </div>
 
-
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
-
-- :credit_card: My full name is **Kavishka Sandaruwan** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently 3rd year student at **SLIIT UNI**
-- :books: My major is **Software Engineering/Devops Engineer**
-- :earth_asia: I'm living now in **Malabe,Colombo,Sri Lanka**
-- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Devops.
-- :my_portfolio: https://myprofile-kappa-topaz.vercel.app/
-
-
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="kavishkasandaruwan608@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
+  <img height="280" alt="Coding GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+</p>
+
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
+
+I'm **Kavishka Sandaruwan**, a 3rd year Software Engineering student at **SLIIT**, based in Malabe, Colombo, Sri Lanka. I love building things across the stack — from web and mobile apps to exploring DevOps pipelines and dipping into data & machine learning.
+
+- 🔭 Currently sharpening my skills in **DevOps & Cloud**
+- 🌱 Learning more about **Mobile App Development** and **Data Science/ML**
+- 👯 Looking to collaborate on web, mobile, or DevOps projects
+- 💬 Ask me about Git, Java, or anything web dev related — happy to help!
+- 😎 *"It's never too late — never too late to start over, never too late to be happy"*
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/kavishka-sandaruwan-a8a1b1290/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
+    <img border="0" alt="LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+  </a>
+  <a href="mailto:kavishkasandaruwan608@gmail.com" target="_blank">
+    <img border="0" alt="Gmail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+  </a>
+  <a href="https://myprofile-kappa-topaz.vercel.app/" target="_blank">
+    <img border="0" alt="Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+  </a>
+</p>
 
-  
-  <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  
- 
+<br>
 
-<div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
- 
-</div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills</b>
 
-------
+### 📋 Programming Languages
+<p align="left">
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+</p>
 
+### 🌐 Web Development
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+</p>
+
+### 📱 Mobile Development
+<p align="left">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white">
+</p>
+
+### ♾️ DevOps & Cloud
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+</p>
+
+### 📊 Data & ML
+<p align="left">
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white">
+</p>
+
+### 💾 Databases
+<p align="left">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
+  <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white">
+</p>
+
+### 💻 IDEs / Tools
+<p align="left">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white">
+</p>
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
+
+<p align="center">
+  <img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavishkasandaruwan2002&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=kavishkasandaruwan2002&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/>
+</p>
+
+<br>
+
+#### <p align="center"><b>Thanks for stopping by my profile! 😄</b></p>
