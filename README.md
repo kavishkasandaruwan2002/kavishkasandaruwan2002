@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student;DevOps+Enthusiast;Mobile+App+Developer;Data+%26+ML+Explorer;Web+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student;DevOps+Enthusiast;Web+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
@@ -60,7 +60,7 @@ I'm **Kavishka Sandaruwan**, a 3rd year Software Engineering student at **SLIIT*
 ### 📱 Mobile Development
 <p align="left">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white">
+ 
 </p>
 
 ### ♾️ DevOps & Cloud
@@ -75,7 +75,7 @@ I'm **Kavishka Sandaruwan**, a 3rd year Software Engineering student at **SLIIT*
 <p align="left">
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white">
-  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white">
+  
 </p>
 
 ### 💾 Databases
